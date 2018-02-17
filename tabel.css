@@ -1,0 +1,15 @@
+.prijslijst{
+  border-collapse : collapse ;
+  background-color: #771617;
+  border: 6px outset silver;
+}
+
+.prijslijst td{
+  border: 6px outset silver;
+  color:  orange;
+}
+
+.prijslijst th{
+  border: 6px outset silver;
+  color:  orange;
+}

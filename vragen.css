@@ -1,0 +1,21 @@
+p.vraag {
+  text-align: left;
+  }
+
+p.antwoord {
+  color: black;
+  background-color: black;
+  display: table;
+  text-align: center;
+}
+
+.antwoord:hover {
+  color: grey;
+}
+
+p#uitleg{
+  font-style:italic;
+  font-weight: bold;
+  font-size: 100%;
+  color: grey;
+}
